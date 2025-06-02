@@ -1,0 +1,35 @@
+{
+    "boualiasmaa31@gmail.com": {
+        "name": "asmaa",
+        "email": "boualiasmaa31@gmail.com",
+        "password": "$2b$12$QmZnuPWuERs2fvpmyWgMqeiveD7Ikc2.sLly3KmZVaW6QmjWSwamO",
+        "notifications": true
+    },
+    "boualiasmaa@gmail.com": {
+        "name": "as",
+        "email": "boualiasmaa@gmail.com",
+        "password": "$2b$12$..8np2MgFtgS1okhALfrcut0e/cvrKdVFOejb93brSDZNXSI4JHlC",
+        "notifications": true
+    },
+    "hibahabib03@gmail.com": {
+        "name": "hiba benlahbib",
+        "email": "hibahabib03@gmail.com",
+        "password": "$2b$12$AkMH025/zfRMGIbOS0dfCecFKUZx/GPP4se1nJeRrt0ltdqfzb3oq",
+        "notifications": true,
+        "last_login": "2025-06-01T23:16:12.774302"
+    },
+    "hibahabib08@outlook.fr": {
+        "name": "hiba ysr",
+        "email": "hibahabib08@outlook.fr",
+        "password": "$2b$12$lGrC9aYfBEOcrkNUkCfXaecYsvoGUe6KBE9qI5ieD7VUFIe/KzOZ6",
+        "notifications": true,
+        "created_at": "2025-06-01T23:08:08.236784",
+        "last_login": null
+    },
+    "fellah.soumaya@gmail.com": {
+        "name": "fellah soumaya",
+        "email": "fellah.soumaya@gmail.com",
+        "password": "$2b$12$HFZRzcaG6p5XRCYsZyOtKuCs4/oQf2DveWdKYzX/7OCCpUz4L/gY6",
+        "notifications": true
+    }
+}
