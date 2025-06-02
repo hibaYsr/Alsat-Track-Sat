@@ -1,0 +1,9 @@
+streamlit
+bcrypt
+numpy
+skyfield
+requests
+pytz
+folium
+streamlit-folium
+plotly
